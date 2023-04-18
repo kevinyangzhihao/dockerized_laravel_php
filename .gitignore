@@ -19,6 +19,3 @@ yarn-error.log
 /.idea
 /.vscode
 # end 一开始就有的git ignore
-
-Dockerfile
-compose.yml
